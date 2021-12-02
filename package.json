@@ -1,10 +1,10 @@
 {
-  "name": " ",
+  "name": "Atividade-flexbox-aula-01",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
+  "description": "Página adaptável para telas de celular através do uso de flexbox.",
+  "keywords": "flexbox, celular",
   "license": "",
-  "author": "",
+  "author": "Gabriela Silveira",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
