@@ -2,6 +2,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(145, 140, 145);
     margin: 0;
+    text-align: justify;
 }
 
 article, aside, footer, header {
